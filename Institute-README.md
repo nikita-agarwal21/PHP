@@ -6,4 +6,7 @@ This consists of the student details and allows to insert,delete,update and disp
 The database column consists of name,gender,usn,birth date,age having varchar,date,int as the date types.
 
 # Prerequisites
-install xampp and start both apache and mysql.in the admin butoon of mysql create the institute database with respective fields and character.[Institutedatabase.zip](https://github.com/nikita-agarwal21/PHP/files/6215577/Institutedatabase.zip)
+install xampp and start both apache and mysql.in the admin butoon of mysql create the institute database with respective fields and character.
+
+
+[Institutedatabase.zip](https://github.com/nikita-agarwal21/PHP/files/6215577/Institutedatabase.zip)
